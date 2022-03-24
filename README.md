@@ -3,7 +3,9 @@ A Baseline Statistical Method For Robust User-Assisted Multiple Segmentation
 Author: Huseyin Afşer
 
 This code implements DGL test-based multiple image segmentation method presented
-in the paper "A Baseline Statistical Method For Robust User-Assisted Multiple Segmentation" by Huseyin Afşer. The paper is submitted to IEEE Signal Processing Letters and also available at https://arxiv.org/abs/2201.02779.
+in the paper H. Aşer, "A Baseline Statistical Method For Robust User-Assisted Multiple Segmentation", in IEEE Signal Processing Letters, vol. 29,
+pp. 737-741, 2022.
+
 
 The code implements the proposed segmentation method for different types of user inputs (UI) and amounts for the
 test images of BSDS500 image database. It calculates the accuracy in terms of intersection over union (IoU) by averaging it over multiple images and multiple ground truth annotations.  
